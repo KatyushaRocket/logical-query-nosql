@@ -22,4 +22,4 @@
   "$nor": [
     { "kategori": "Matematika" },
     { "stok": { "$lt": 3 } }
-  ]
+  ]}
